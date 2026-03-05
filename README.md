@@ -109,7 +109,7 @@ Builder Pattern is used to **construct complex objects step by step**, separatin
 
 ## References
 
-- [JavaScript Design Patterns](https://refactoring.guru/design-patterns/javascript)
+- [JavaScript Design Patterns](https://refactoring.guru/design-patterns)
 - [MDN JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 - [JavaScript Prototype](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
 - [Builder Pattern Overview](https://refactoring.guru/design-patterns/builder)
